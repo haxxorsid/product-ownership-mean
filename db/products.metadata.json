@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"productapp.products"},{"v":2,"unique":true,"key":{"item_ref":1},"name":"item_ref_1","ns":"productapp.products","background":true}],"uuid":"238066a134954b31b7cfe8e77a78962d"}
